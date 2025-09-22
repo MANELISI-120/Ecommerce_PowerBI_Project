@@ -1,0 +1,6 @@
+"Customer_id","First_name","Last_name","Email","Phone","Address","City","Country","Created_at"
+"1","John","Doe","john.doe@example.com","0712345678","123 Main St","Durban","South Africa","2025-09-20 11:47:42"
+"2","Mary","Smith","mary.smith@example.com","0823456789","45 Pine Ave","Cape Town","South Africa","2025-09-20 11:47:42"
+"3","Thabo","Mokoena","thabo.mokoena@example.com","0739876543","78 King Rd","Johannesburg","South Africa","2025-09-20 11:47:42"
+"4","Aisha","Khan","aisha.khan@example.com","0761234987","56 Market St","Pretoria","South Africa","2025-09-20 11:47:42"
+"5","Sipho","Dlamini","sipho.dlamini@example.com","0745556677","22 Church St","Durban","South Africa","2025-09-20 11:47:42"
